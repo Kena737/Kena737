@@ -3,19 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kena737&label=Profile%20views&color=1a97e0&style=flat" alt="kena737" /> </p>
 
-- 🔭 I’m currently working on [Truecaller](https://www.truecaller.com/)
-
 - 🌱 I’m currently learning **ReactJS, Tailwind CSS, NextJS**
 
-- 👯 I’m looking to collaborate on [Div](https://dev.to/)
-
-- 👨‍💻 All of my projects are available at [Kena](Kena)
-
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **Kena737@outlook.com**
-
-- ⚡ Fun fact **‘Web developer’ is the most preferred job title For Job Less**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
